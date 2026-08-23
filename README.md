@@ -48,9 +48,9 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/GM-22/GM-22/snake-output/snake.svg" alt="Snake animation" />
-
-
+<div align="center">
+  <img src="./snake/snake.svg" alt="Snake animation" />
+</div>
 
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
