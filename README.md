@@ -39,7 +39,7 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="50"><br>
       <b>Next.js</b>
     </td>
-   <td align="center" width="120">
+   <td align="center" >
       <img src="https://skillicons.dev/icons?i=react" width="50"><br>
       <b>React.js</b>
     </td>
