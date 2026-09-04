@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=nextjs" width="50"><br>
       <b>Next.js</b>
     </td>
@@ -43,7 +43,7 @@
       <img src="https://skillicons.dev/icons?i=react" width="50"><br>
       <b>React.js</b>
     </td>
-    <td align="center" width="120">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=redux" width="50"><br>
       <b>Redux</b>
     </td>
@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=postman" width="50"><br>
   <b>REST API</b>
 </td>
-    <td align="center" width="120">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=js" width="50"><br>
       <b>JavaScripts</b>
     </td>
